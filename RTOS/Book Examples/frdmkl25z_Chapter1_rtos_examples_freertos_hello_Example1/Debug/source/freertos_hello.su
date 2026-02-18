@@ -1,0 +1,5 @@
+C:\Users\jorge\Documents\MCUXpressoIDE_11.8.0_1165\workspace\frdmkl25z_Chapter1_rtos_examples_freertos_hello_Example1\drivers/fsl_gpio.h:175:20:GPIO_SetPinsOutput	16	static
+C:\Users\jorge\Documents\MCUXpressoIDE_11.8.0_1165\workspace\frdmkl25z_Chapter1_rtos_examples_freertos_hello_Example1\drivers/fsl_gpio.h:186:20:GPIO_ClearPinsOutput	16	static
+../source/freertos_hello.c:63:5:main	16	static
+../source/freertos_hello.c:94:6:vTask1	24	static
+../source/freertos_hello.c:117:6:vTask2	24	static
